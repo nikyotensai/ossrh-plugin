@@ -4,7 +4,7 @@
 
     <groupId>com.github.nikyotensai</groupId>
     <artifactId>maven-tools</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
     <packaging>pom</packaging>
     <name>${project.artifactId}</name>
     <description>${project.artifactId}</description>
